@@ -1,0 +1,26 @@
+.dashboard_container {
+  display: flex;
+  flex-grow: 1;
+  height: 100%;
+  overflow: visible;
+}
+/* .dashboard_wrapper {
+  overflow: visible;
+  position: sticky;
+  top: 0;
+  padding: 0 10px;
+  margin: 0;
+} */
+.dashboard_grids {
+  display: grid;
+  grid-column-gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  overflow: visible;
+}
+.lane_modal_content {
+  display: flex;
+  flex-direction: column;
+}
+.label_input_container {
+  margin-bottom: 0.5rem;
+}

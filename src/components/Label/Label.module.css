@@ -1,0 +1,11 @@
+.label_text {
+  font-size: 12px;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+.input_label {
+  font-size: 16px;
+  display: block;
+  margin-bottom: 0.5rem;
+}

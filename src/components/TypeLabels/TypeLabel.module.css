@@ -1,0 +1,22 @@
+.typeLabel_container {
+  color: black;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+}
+.type_dot {
+  width: 1px;
+  border: 4px solid;
+  border-radius: 50%;
+  font-size: bold;
+  margin-right: 4px;
+}
+.feature {
+  color: blue;
+}
+.bug {
+  color: red;
+}
+.request {
+  color: aquamarine;
+}

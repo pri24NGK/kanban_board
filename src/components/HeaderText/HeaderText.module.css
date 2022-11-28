@@ -1,0 +1,23 @@
+.header_text {
+  font-weight: bold;
+  font-size: 14px;
+  text-transform: capitalize;
+  text-align: center;
+}
+.lane_title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 80%;
+}
+.tool_tip {
+  text-transform: capitalize;
+}
+.header_text_card {
+  text-align: left;
+  font-size: 13px;
+  white-space: pre-wrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  max-width: 90%;
+}
